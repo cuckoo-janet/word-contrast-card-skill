@@ -36,4 +36,4 @@ The [condiment / seasoning example](examples/condiment-seasoning.md) includes th
 
 ## License
 
-No license has been selected or included yet. Add the license you choose before publishing so users know how they may use and share this repository.
+CC BY-NC 4.0.
